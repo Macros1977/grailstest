@@ -1,4 +1,4 @@
-package uk.co.iblocks.grailstest
+
 
 class TestController {
 

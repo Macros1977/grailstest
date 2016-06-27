@@ -1,4 +1,4 @@
-package uk.co.iblocks.grailstest
+import Foo
 
 class Bar {
 
