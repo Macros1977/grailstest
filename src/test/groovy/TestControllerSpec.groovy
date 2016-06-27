@@ -1,4 +1,4 @@
-package uk.co.iblocks.grailstest
+
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification
